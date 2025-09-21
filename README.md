@@ -75,7 +75,16 @@ Proving that even complex full-stack apps can be designed, built, and deployed b
 ## Theme
 *“Zero to Launch: Solving Full-Stack Complexity for Non-Technical Visionaries”*
 
-## Tech Stack (Suggested)
+## Tech Stack 
 - *Frontend*: React.js, Tailwind CSS
 - *Backend*: Node.js, Express.js
 - *AI/ML*: OpenAI API, LangChain, or custom LLMs for code synthesis
+
+## Team Spark
+
+-Narra Srishanth Reddy
+-Akarsh Shukla
+-Anurag
+-Vishal
+-Adil
+  
